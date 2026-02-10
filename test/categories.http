@@ -4,7 +4,7 @@
 GET {{baseUrl}}/categories
 
 ### Get category by id
-GET {{baseUrl}}/categories/1
+GET {{baseUrl}}/categories/3
 
 
 ### Create category
